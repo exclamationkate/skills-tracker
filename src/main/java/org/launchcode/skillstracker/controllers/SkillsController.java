@@ -74,19 +74,19 @@ public class SkillsController {
                             "<table border='1'>" +
                             "<tr>" +
                                 "<th><label for='first'>My favorite language:</label></th>" +
-                                "<td><label><input type='radio' name='first' id='first' value='Java'>Java</label></td>" +
+                                "<td><label><input type='radio' name='first' id='first' value='Java' checked>Java</label></td>" +
                                 "<td><label><input type='radio' name='first' id='first' value='JavaScript'>JavaScript</label></td>" +
                                 "<td><label><input type='radio' name='first' id='first' value='Python'>Python</label></td>" +
                             "</tr>" +
                             "<tr>" +
                                 "<th><label for='second'>My second favorite language:</label></th>" +
-                                "<td><label><input type='radio' name='second' id='second' value='Java'>Java</label></td>" +
+                                "<td><label><input type='radio' name='second' id='second' value='Java' checked>Java</label></td>" +
                                 "<td><label><input type='radio' name='second' id='second' value='JavaScript'>JavaScript</label></td>" +
                                 "<td><label><input type='radio' name='second' id='second' value='Python'>Python</label></td>" +
                             "</tr>" +
                             "<tr>" +
                                 "<th><label for='third'>My third favorite language:</label></th>" +
-                                "<td><label><input type='radio' name='third' id='third' value='Java'>Java</label></td>" +
+                                "<td><label><input type='radio' name='third' id='third' value='Java' checked>Java</label></td>" +
                                 "<td><label><input type='radio' name='third' id='third' value='JavaScript'>JavaScript</label></td>" +
                                 "<td><label><input type='radio' name='third' id='third' value='Python'>Python</label></td>" +
                             "</tr>" +
